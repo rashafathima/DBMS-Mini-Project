@@ -4,6 +4,7 @@
 ### ● Hard Disk : 1TB
 ### ● Input Device : Standard keyboard and Mouse
 ### ● Output Device : Monitor
+<br>
 
 ## Software Specification
 ### ● Database : MySQL

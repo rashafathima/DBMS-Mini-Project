@@ -1,5 +1,6 @@
 # Road Accident Hotspot Management
 <br>
+
 ## Hardware Specification
 ### ● Processor : Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz 2.11 GHz
 ### ● Hard Disk : 1TB
